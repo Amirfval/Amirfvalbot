@@ -1,0 +1,7 @@
+name = "amirfvalbot"
+main = "src/index.js"
+compatibility_date = "2026-11-17"
+
+[[kv_namespaces]]
+binding = "BOT_DATA"
+id = "اینجا باید شناسه KV را وارد کنیم"
